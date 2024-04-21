@@ -18,4 +18,4 @@ API response through **SignatureControllerTest**.
 
 Core service logic verification through **SignatureServiceTest** and **HashingServiceTest**.
 
-Exception handling throgh **GlobalExceptionHandlerTest**.
+Exception handling through **GlobalExceptionHandlerTest**.
